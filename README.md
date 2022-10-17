@@ -17,4 +17,5 @@
 
 ##
 
- ![Snake animation]([https://github.com/bmediato/bmediato/blob/output/github-contribution-grid-snake.svg](https://github.com/bmediato/bmediato/blob/main/.github/workflows/main.yml))
+ ![Snake animation](https://github.com/bmediato/bmediato/blob/output/github-contribution-grid-snake.svg)
+
