@@ -2,10 +2,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=14&pause=200&color=7feaf0&multiline=true&width=300&height=50&lines=Be+Welcome!)](https://git.io/typing-svg)
 
 ```js
-const name = 'Beatriz Mediato';
-const age = 22;
-const hoby = ['Livros', 'cafe'];
+import Desenvolvedor from 'bmediato';
 
+class SobreMim extends Desenvolvedor {
+  nome     = 'Beatriz Mediato';
+  trabalho  = 'Estudante de Desenvolvimento Web na Trybe';
+  modulos = ['Fundamentos', 'Frondend', 'Backend', 'Ciencia da Computacao'];
+  area    = 'Modulo de Backend';
+  local = 'Volta Redonda';
+}
+
+class Skills extends Desenvolvedor {
+  linguagens  = ['JavaScript'];
+  design = ['css', 'sass'];
+  frameworks = ['React'];
+  platforms = ['Linux', 'Docker']
+}
 ```
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bmediato&bg_color=0d1117&color=7feaf0&line=7feaf0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
