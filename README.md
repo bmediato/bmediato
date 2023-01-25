@@ -4,7 +4,7 @@
 ```js
 const name = 'Beatriz Mediato';
 const age = 22;
-hobby = ['Livros', 'cafe'];
+const hoby = ['Livros', 'cafe'];
 
 ```
 
