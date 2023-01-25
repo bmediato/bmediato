@@ -1,11 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FEAF0&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=14&pause=200&color=7feaf0&multiline=true&width=300&height=50&lines=Be+Welcome!)](https://git.io/typing-svg)
 
 ```js
 const name = 'Beatriz Mediato';
 const age = 22;
-const place = 'Volta Redonda';
+hobby = ['Livros', 'cafe'];
 
 ```
 
@@ -36,4 +35,4 @@ const place = 'Volta Redonda';
 <a href="https://www.linkedin.com/in/beatrizmediato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7feaf0&height=120&section=footer"/>
+
