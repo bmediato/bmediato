@@ -1,21 +1,14 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FEAF0&height=120&section=header"/>
 
-- 🌱 I’m student at Trybe
-- 📫 E-mail: beatriz.mediatto2@gmail.com
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=14&pause=200&color=7feaf0&multiline=true&width=450&height=150&lines=import+Desenvolvedor+from+bmediato;class+SobreMim+extends+Desenvolvedor%7B;nome+%3D+Beatriz+Mediato;idade+%3D+22+anos;cidade+%3D+Volta+Redonda%2C+RJ;%7D)](https://git.io/typing-svg)
 
-##
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bmediato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmediato&layout=compact&langs_count=7&theme=dark"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bmediato&bg_color=0d1117&color=7feaf0&line=7feaf0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">  
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bmediato&show_icons=true&count_private=true&hide_border=true&title_color=7feaf0&icon_color=7feaf0&text_color=c9d1d9&bg_color=0d1117" alt="Beatriz Mediato github stats" /> 
+  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmediato&layout=compact&hide_border=true&title_color=7feaf0&text_color=7feaf0&bg_color=0d1117" />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="B-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="B-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="B-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="B-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-##
-
+  
  ![Snake animation](https://github.com/bmediato/bmediato/blob/output/github-contribution-grid-snake.svg)
 
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7feaf0&height=120&section=footer"/>
