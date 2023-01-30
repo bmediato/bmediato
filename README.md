@@ -6,6 +6,7 @@ import Desenvolvedor from 'bmediato';
 
 class SobreMim extends Desenvolvedor {
   nome     = 'Beatriz Mediato';
+  email = 'beatriz.mediatto2@gmail.com'
   trabalho  = 'Estudante de Desenvolvimento Web na Trybe';
   modulos = ['Fundamentos', 'Frondend', 'Backend', 'Ciencia da Computacao'];
   area    = 'Modulo de Backend';
