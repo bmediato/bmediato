@@ -9,7 +9,7 @@ class SobreMim extends Desenvolvedor {
   email = 'beatriz.mediatto2@gmail.com'
   trabalho  = 'Estudante de Desenvolvimento Web na Trybe';
   modulos = ['Fundamentos', 'Frondend', 'Backend', 'Ciencia da Computacao'];
-  area    = 'Modulo de Backend';
+  cursando    = 'Modulo de Backend';
   local = 'Volta Redonda';
 }
 
