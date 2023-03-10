@@ -28,7 +28,7 @@ class Skills extends Desenvolvedor {
   <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmediato&layout=demo&hide_border=true&title_color=7feaf0&text_color=7feaf0&bg_color=0d1117" />
 </div>
 
-### Main skills:
+### Ferramentas e Tecnologias
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
