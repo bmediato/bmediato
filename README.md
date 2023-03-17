@@ -6,6 +6,7 @@
 - Sou de Volta Redonda, Rj.
 - Adoro tecnologia, livros e filmes. 
 - Atualmente sou estudante de Desenvolvimento Web na Trybe.
+- Você pode acompanhar meu andamento no <a href="[https://www.linkedin.com/in/beatrizmediato/](https://github.com/bmediato/trybe-exercicios)" target="_blank">Readme neste repositorio</a> 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bmediato&bg_color=0d1117&color=7feaf0&line=7feaf0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
