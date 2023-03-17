@@ -6,7 +6,6 @@
 - Sou de Volta Redonda, Rj.
 - Adoro tecnologia, livros e filmes. 
 - Atualmente sou estudante de Desenvolvimento Web na Trybe.
-- Você pode acompanhar meu andamento no <a href="[https://www.linkedin.com/in/beatrizmediato/](https://github.com/bmediato/trybe-exercicios)" target="_blank">Readme neste repositorio</a> 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bmediato&bg_color=0d1117&color=7feaf0&line=7feaf0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -28,6 +27,11 @@
 ![Testing Library](	https://img.shields.io/badge/testing%20library-0D1117?style=for-the-badge&logo=testing-library)&nbsp;
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux)&nbsp;
+![NodeJs](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/Express-0D1117.svg?style=for-the-badge&logo=Express&logoColor=blue)&nbsp;
+![Mocha](https://img.shields.io/badge/Mocha-0D1117.svg?style=for-the-badge&logo=Mocha)&nbsp;
+![Sequelize](https://img.shields.io/badge/Sequelize-0D1117.svg?style=for-the-badge&logo=Sequelize)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)&nbsp;
 
 
 <div align="center"> 
