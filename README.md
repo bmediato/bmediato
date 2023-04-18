@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7feaf0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+bom+te+ver+por+aqui+🩷)](https://git.io/typing-svg)
 
 ## Sobre mim:
-- 🪪 Me chamo Beatriz Mediato, tenho 22 anos.
+- 🪪 Me chamo Beatriz Mediato.
 - 🌎 Sou de Volta Redonda, Rj.
 - 💙 Adoro tecnologia, livros e filmes. 
 - 🧠 Atualmente sou estudante de Desenvolvimento Web na Trybe.
