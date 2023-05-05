@@ -1,10 +1,8 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7feaf0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World.)](https://git.io/typing-svg)
 
-<img align="right" alt="GIF" src="https://github.com/bmediato/bmediato/blob/main/image/download20230202102538.png" width="100px" />
 
 ## Sobre mim:
-
 
 - 🪪 Me chamo <strong>Beatriz Mediato</strong>.
 - 🌎 Sou de Volta Redonda, Rj.
