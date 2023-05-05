@@ -2,17 +2,23 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7feaf0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World)](https://git.io/typing-svg)
 
 ## Sobre mim:
-- 🪪 Me chamo Beatriz Mediato.
+<img align="right" alt="GIF" src="https://github.com/bmediato/bmediato/blob/main/image/download20230202102538.png" width="250px" />
+
+- 🪪 Me chamo <strong>Beatriz Mediato</strong>.
 - 🌎 Sou de Volta Redonda, Rj.
 - 🧠 Atualmente sou estudante de Desenvolvimento Web na Trybe.
-- 💙 Adoro tecnologia, livros e filmes. 
+- 👩‍💻 Estou estudando 
+- 💙 Meus hobbies são livros e filmes.
+- 📫 Por favor, envie um email para <a href = "mailto:beatriz.mediatto2@gmail.com">beatriz.mediatto2@gmail.com</a> para me encontrar.
+- 📃 
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bmediato&bg_color=0d1117&color=7feaf0&line=7feaf0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bmediato&show_icons=true&count_private=true&hide_border=true&title_color=7feaf0&icon_color=7feaf0&text_color=c9d1d9&bg_color=0d1117" alt="Beatriz Mediato github stats" /> 
-  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmediato&layout=demo&hide_border=true&title_color=7feaf0&text_color=7feaf0&bg_color=0d1117" />
+  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmediato&layout=compact&hide_border=true&title_color=7feaf0&text_color=7feaf0&bg_color=0d1117" />
 </div>
 
 ### ⚡ Ferramentas e Tecnologias
