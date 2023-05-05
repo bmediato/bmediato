@@ -2,15 +2,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7feaf0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World)](https://git.io/typing-svg)
 
 ## Sobre mim:
-<img align="right" alt="GIF" src="https://github.com/bmediato/bmediato/blob/main/image/download20230202102538.png" width="250px" />
+<img align="right" alt="GIF" src="https://github.com/bmediato/bmediato/blob/main/image/download20230202102538.png" width="200px" />
 
 - 🪪 Me chamo <strong>Beatriz Mediato</strong>.
 - 🌎 Sou de Volta Redonda, Rj.
 - 🧠 Atualmente sou estudante de Desenvolvimento Web na Trybe.
-- 👩‍💻 Estou estudando 
 - 💙 Meus hobbies são livros e filmes.
 - 📫 Por favor, envie um email para <a href = "mailto:beatriz.mediatto2@gmail.com">beatriz.mediatto2@gmail.com</a> para me encontrar.
-- 📃 
 
 
 
