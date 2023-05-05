@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7feaf0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+bom+te+ver+por+aqui+🩷)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7feaf0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World)](https://git.io/typing-svg)
 
 ## Sobre mim:
 - 🪪 Me chamo Beatriz Mediato.
