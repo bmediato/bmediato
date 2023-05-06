@@ -37,7 +37,7 @@
 ![Mocha](https://img.shields.io/badge/Mocha-0D1117.svg?style=for-the-badge&logo=Mocha)&nbsp;
 ![Sequelize](https://img.shields.io/badge/Sequelize-0D1117.svg?style=for-the-badge&logo=Sequelize)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)&nbsp;
-
+![MongoDb](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=MongoDB)&nbsp;
 
 <div align="center"> 
 <a href = "mailto:beatriz.mediatto2@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
