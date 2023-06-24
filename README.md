@@ -12,8 +12,6 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bmediato&bg_color=0d1117&color=7feaf0&line=7feaf0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bmediato&show_icons=true&count_private=true&hide_border=true&title_color=7feaf0&icon_color=7feaf0&text_color=c9d1d9&bg_color=0d1117" alt="Beatriz Mediato github stats" /> 
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmediato&layout=compact&hide_border=true&title_color=7feaf0&text_color=7feaf0&bg_color=0d1117" />
