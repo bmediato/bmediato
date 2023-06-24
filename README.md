@@ -2,14 +2,34 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World.)](https://git.io/typing-svg)
 
 
+
 ## Sobre mim:
 
-- 🪪 Me chamo <strong>Beatriz Mediato</strong>.
-- 🌎 Sou de Volta Redonda, Rj.
-- 🧠 Atualmente sou estudante de Desenvolvimento Web na Trybe.
-- 💙 Meus hobbies são livros e filmes.
-- 📫 Por favor, envie um email para <a href = "mailto:beatriz.mediatto2@gmail.com">beatriz.mediatto2@gmail.com</a> para me encontrar.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
 
+<br>
+<p align="left"> 
+ 🪪 Me chamo <strong>Beatriz Mediato</strong>.
+</p>
+
+<p align="left">
+ 🌎 Sou de Volta Redonda, Rj.
+</p>
+
+<p align="left">
+ 🧠 Atualmente sou estudante de Desenvolvimento Web na Trybe.
+</p>
+
+<p align="left">
+ 💙 Meus hobbies são livros e filmes.
+</p>
+
+
+<p align="left">
+ 📫 Por favor, envie um email para <a href = "mailto:beatriz.mediatto2@gmail.com">beatriz.mediatto2@gmail.com</a> para me encontrar.
+</p>
+
+<br>
 
 
 <div align="center">  
