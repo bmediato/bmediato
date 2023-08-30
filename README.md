@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
- 🧠 Atualmente sou estudante de Desenvolvimento Web na Trybe.
+ 🧠 Atualmente estou aprendendo Java.
 </p>
 
 <p align="left">
